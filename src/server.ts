@@ -1,6 +1,7 @@
-import app from './app'
+import App from './app'
+const port = process.env.APP_PORT
 
-const port = process.env.APP_PORT || 4000
+const app = App.serverHttp
 
 app.listen(port, () => {
   console.log(`SERVER IS RUNNING ON PORT ${port}`)
