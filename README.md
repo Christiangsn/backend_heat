@@ -28,7 +28,7 @@ Aiming at future scalability and scalability of the application, the rules of ea
 Learn more: <a href="https://www.devmedia.com.br/introducao-ao-ddd-em-net/32724">DDD - Info</a> (PT-BR) - <a href="https://khalilstemmler.com/articles/domain-driven-design-intro/">DDD - Info</a> (EN)
 
 The project was done in typescript language that is done at development time and once finished, a build of the application (JavaScript) is done. <br>
-Typescript helps us and extends the concepts of scalability of the application, making us also have a clean arquitetura.
+Typescript helps us and extends the concepts of scalability of the application, making us also have a clean architecture.
 
 
 ## Documentation
